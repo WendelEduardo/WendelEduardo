@@ -1,4 +1,6 @@
-### Hi there 👋
+## Olá! Meu nome é Wendel Eduardo 👋
+### Sou progamador Front-End.
+<img src="https://68.media.tumblr.com/17457ab9d237a92560515d8b349496aa/tumblr_os33ocsLtQ1vom0g7o1_1280.gif">
 
 <!--
 **WendelEduardo/WendelEduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
