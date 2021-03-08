@@ -1,4 +1,4 @@
-## Olá! Meu nome é Wendel Eduardo 👋
+<h1 align="center"> Olá! Meu nome é Wendel Eduardo 👋 </h1>
 <h2 align="center"> Sou progamador Front-End.👨‍💻 </h2>
 <p align="center"> Busco atuar na área de informática aplicando
 conhecimentos adquiridos durante minha trajetória acadêmica, visando me
