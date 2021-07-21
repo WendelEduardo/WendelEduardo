@@ -3,9 +3,21 @@
 <p align="center"> Busco atuar na área de informática aplicando
 conhecimentos adquiridos durante minha trajetória acadêmica, visando me
 tornar um profissional mais experiente.</p>
+##Contato
+<p>
+  <a href="mailto:wendeleduardo2002@gmail.com" alt="E-mail" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/wendel-eduardo-b72b231a2/" alt="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/eduardo.wendel.35/" alt="Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+</p>
 
 <h2 align="center"> 💻 Habilidades </h2>
-![image](https://user-images.githubusercontent.com/71601127/126415540-cc75b177-1435-4291-928d-8431c0838bfe.png)
 
 
 #### WEB
