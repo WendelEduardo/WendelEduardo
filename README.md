@@ -3,7 +3,7 @@
 <p align="center"> Busco atuar na área de informática aplicando
 conhecimentos adquiridos durante minha trajetória acadêmica, visando me
 tornar um profissional mais experiente.</p>
-## Contato
+<h2>Contato</h2>
 <p>
   <a href="mailto:wendeleduardo2002@gmail.com" alt="E-mail" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
