@@ -5,6 +5,8 @@ conhecimentos adquiridos durante minha trajetória acadêmica, visando me
 tornar um profissional mais experiente.</p>
 
 <h2 align="center"> 💻 Habilidades </h2>
+![image](https://user-images.githubusercontent.com/71601127/126415540-cc75b177-1435-4291-928d-8431c0838bfe.png)
+
 
 #### WEB
 - [x] <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> Html5 </a>
