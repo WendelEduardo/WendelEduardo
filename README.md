@@ -1,9 +1,7 @@
-<h1 align="center"> Olá! Meu nome é Wendel Eduardo 👋 </h1>
-<h2 align="center"> Sou progamador.👨‍💻 </h2>
-<p align="center"> Busco atuar na área de informática aplicando
-conhecimentos adquiridos durante minha trajetória acadêmica, visando me
-tornar um profissional mais experiente.</p>
-<h2>Contato</h2>
+<h1 align="center"> Hello! My name is Wendel Eduardo 👋 </h1>
+<h2 align="center"> I'm a programmer👨‍💻 </h2>
+<p align="center"> I seek to work in the computer area applying knowledge acquired during my academic career, specifying to become a more experienced professional.</p>
+<h2>Contact</h2>
 <p>
   <a href="mailto:wendeleduardo2002@gmail.com" alt="E-mail" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
@@ -17,7 +15,7 @@ tornar um profissional mais experiente.</p>
 </a>
 </p>
 
-<h2 align="center"> 💻 Habilidades </h2>
+<h2 align="center"> 💻 Skills </h2>
 
 
 #### WEB
@@ -28,7 +26,7 @@ tornar um profissional mais experiente.</p>
 #### Back-end
 - [x] <a href="https://www.php.net/manual/pt_BR/intro-whatis.php"> PHP </a>
 
-#### Editor de imagens
+#### Image Editor
 - [x] <a href="https://www.adobe.com/br/products/photoshop.html"> Photoshop </a>
 - [x] <a href="https://www.canva.com/"> Canvas </a>
 
