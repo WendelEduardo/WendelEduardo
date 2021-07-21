@@ -19,7 +19,7 @@
 
 
 #### WEB
-- [x] <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css"> </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
 - [x] <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">Css3 </a>
 - [x] <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript </a>
 
