@@ -31,7 +31,7 @@
 <a href="https://www.canva.com/"> Canvas </a>
 
 #### Mobile 
-responsiveness&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://ionicframework.com/"> IONIC </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Glossary/Responsive_web_design">responsiveness</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://ionicframework.com/"> IONIC </a>
 
 #### Frameworks
 <a href="https://getbootstrap.com/"> Bootstrap </a>
