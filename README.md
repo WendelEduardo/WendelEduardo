@@ -19,22 +19,22 @@
 
 
 #### WEB
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> HTML</a>
-- [x] <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">Css3 </a>
-- [x] <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> HTML</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">Css3 </a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript </a>
 
 #### Back-end
-- [x] <a href="https://www.php.net/manual/pt_BR/intro-whatis.php"> PHP </a>
+<a href="https://www.php.net/manual/pt_BR/intro-whatis.php"> PHP </a>
 
 #### Image Editor
-- [x] <a href="https://www.adobe.com/br/products/photoshop.html"> Photoshop </a>
-- [x] <a href="https://www.canva.com/"> Canvas </a>
+<a href="https://www.adobe.com/br/products/photoshop.html"> Photoshop </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="https://www.canva.com/"> Canvas </a>
 
 #### Mobile 
-- [x] <a href="https://ionicframework.com/"> IONIC </a>
+<a href="https://ionicframework.com/"> IONIC </a>
 
 #### Frameworks
-- [x] <a href="https://getbootstrap.com/"> Bootstrap </a>
+<a href="https://getbootstrap.com/"> Bootstrap </a>
 
 <p align="center"><img src="https://68.media.tumblr.com/17457ab9d237a92560515d8b349496aa/tumblr_os33ocsLtQ1vom0g7o1_1280.gif"></p>
 
