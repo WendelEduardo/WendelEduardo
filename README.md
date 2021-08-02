@@ -1,11 +1,6 @@
 <h1 align="center"> Hello! My name is Wendel Eduardo 👋 </h1>
 <h2 align="center"> I'm a programmer👨‍💻 </h2>
 <p align="center"> I seek to work in the computer area applying knowledge acquired during my academic career, specifying to become a more experienced professional.</p>
- <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <h2>Contact</h2>
 <p>
   <a href="mailto:wendeleduardo2002@gmail.com" alt="E-mail" target="_blank">
@@ -43,7 +38,8 @@
 
 <p align="center"><img src="https://68.media.tumblr.com/17457ab9d237a92560515d8b349496aa/tumblr_os33ocsLtQ1vom0g7o1_1280.gif"></p>
 
-
+![Snake animation](https://github.com/WendelEduardo/WendelEduardo/blob/output/github-contribution-grid-snake.svg)
+ 
 <!--
 **WendelEduardo/WendelEduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
