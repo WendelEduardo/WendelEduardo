@@ -38,7 +38,6 @@
 
 <p align="center"><img src="https://68.media.tumblr.com/17457ab9d237a92560515d8b349496aa/tumblr_os33ocsLtQ1vom0g7o1_1280.gif"></p>
 
-![Snake animation](https://github.com/WendelEduardo/WendelEduardo/blob/output/github-contribution-grid-snake.svg)
  
 <!--
 **WendelEduardo/WendelEduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
