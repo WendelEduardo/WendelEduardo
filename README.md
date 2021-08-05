@@ -18,9 +18,7 @@
 <h2 align="center"> 💻 Skills </h2>
 
 #### 𝙒𝙀𝘽
-     HTML5
-     | CSS3
-     | JavaScript
+     HTML5 | CSS3 | JavaScript
 
 #### 𝘽𝙖𝙘𝙠-𝙚𝙣𝙙
      PHP
@@ -29,22 +27,16 @@
      Java
 
  #### 𝙀𝙙𝙞𝙩𝙤𝙧 𝙙𝙚 𝙞𝙢𝙖𝙜𝙚𝙣𝙨
-     Photoshop
-     | Canvas
+     Photoshop | Canvas
 
 #### 𝙈𝙤𝙗𝙞𝙡𝙚
-     IONIC
-     | React Native
+     IONIC | React Native
 
 #### 𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨
-     Bootstrap
-     | Electron
-     | Tailwind CSS
+     Bootstrap | Electron | Tailwind CSS
 
 #### 𝙑𝙚𝙧𝙨𝙞𝙤𝙣𝙖𝙢𝙚𝙣𝙩𝙤 𝙙𝙚 𝙘𝙤́𝙙𝙞𝙜𝙤
-    Git
-    | GitHub
-    | GitHub Desktop
+    Git | GitHub | GitHub Desktop
     
 <!--
 #### WEB
