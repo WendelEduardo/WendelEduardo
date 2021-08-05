@@ -17,7 +17,36 @@
 
 <h2 align="center"> 💻 Skills </h2>
 
+###𝙒𝙀𝘽
+     • HTML5
+     • CSS3
+     • JavaScript
 
+###𝘽𝙖𝙘𝙠-𝙚𝙣𝙙
+     • PHP
+
+###𝙊𝙧𝙞𝙚𝙣𝙩𝙖𝙙𝙖 𝙖 𝙊𝙗𝙟𝙚𝙩𝙤𝙨
+     • Java
+
+ ###𝙀𝙙𝙞𝙩𝙤𝙧 𝙙𝙚 𝙞𝙢𝙖𝙜𝙚𝙣𝙨
+     • Photoshop
+     • Canvas
+
+###𝙈𝙤𝙗𝙞𝙡𝙚
+     • IONIC
+     • React Native
+
+###𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨
+     • Bootstrap
+     • Electron
+     • Tailwind CSS
+
+###𝙑𝙚𝙧𝙨𝙞𝙤𝙣𝙖𝙢𝙚𝙣𝙩𝙤 𝙙𝙚 𝙘𝙤́𝙙𝙞𝙜𝙤
+    • Git
+    • GitHub
+    • GitHub Desktop
+    
+<!--
 #### WEB
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> HTML</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">Css3 </a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -35,7 +64,7 @@
 
 #### Frameworks
 <a href="https://getbootstrap.com/"> Bootstrap </a>
-
+-->
 <p align="center"><img src="https://68.media.tumblr.com/17457ab9d237a92560515d8b349496aa/tumblr_os33ocsLtQ1vom0g7o1_1280.gif"></p>
 
  
