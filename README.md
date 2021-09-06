@@ -57,8 +57,10 @@
 #### Frameworks
 <a href="https://getbootstrap.com/"> Bootstrap </a>
 -->
-<p align="center"><img src="https://68.media.tumblr.com/17457ab9d237a92560515d8b349496aa/tumblr_os33ocsLtQ1vom0g7o1_1280.gif"></p>
 
+<!--
+<p align="center"><img src="https://68.media.tumblr.com/17457ab9d237a92560515d8b349496aa/tumblr_os33ocsLtQ1vom0g7o1_1280.gif"></p>
+-->
  
 <!--
 **WendelEduardo/WendelEduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
