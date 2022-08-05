@@ -21,7 +21,7 @@
      HTML5 | CSS3 | JavaScript
 
 #### 𝘽𝙖𝙘𝙠-𝙚𝙣𝙙
-     Java | PHP
+     Java (Java 8, POO, JUnit)
 
  #### 𝙀𝙙𝙞𝙩𝙤𝙧 𝙙𝙚 𝙞𝙢𝙖𝙜𝙚𝙣𝙨
      Photoshop | Canvas
@@ -30,7 +30,7 @@
      React Native
 
 #### 𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨
-     Bootstrap | Electron
+     Electron
 
 #### 𝙑𝙚𝙧𝙨𝙞𝙤𝙣𝙖𝙢𝙚𝙣𝙩𝙤 𝙙𝙚 𝙘𝙤́𝙙𝙞𝙜𝙤
     Git | GitHub | GitHub Desktop
