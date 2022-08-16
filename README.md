@@ -21,10 +21,7 @@
      HTML5 | CSS3 | JavaScript
 
 #### 𝘽𝙖𝙘𝙠-𝙚𝙣𝙙
-     Java (Java 8, POO, JUnit)
-
- #### 𝙀𝙙𝙞𝙩𝙤𝙧 𝙙𝙚 𝙞𝙢𝙖𝙜𝙚𝙣𝙨
-     Photoshop | Canvas
+     Java (Java 8, POO, JUnit, SOLID)
 
 #### 𝙈𝙤𝙗𝙞𝙡𝙚
      React Native
@@ -37,6 +34,9 @@
     
 #### 𝙂𝙚𝙧𝙚𝙣𝙘𝙞𝙖𝙢𝙚𝙣𝙩𝙤 𝙙𝙚 𝙋𝙧𝙤𝙟𝙚𝙩𝙤𝙨
     SCRUM  | Kanban  
+    
+#### 𝙀𝙙𝙞𝙩𝙤𝙧 𝙙𝙚 𝙞𝙢𝙖𝙜𝙚𝙣𝙨
+    Photoshop | Canvas
     
 <!--
 #### WEB
