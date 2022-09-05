@@ -21,7 +21,7 @@
      HTML5 | CSS3 | JavaScript
 
 #### 𝘽𝙖𝙘𝙠-𝙚𝙣𝙙
-     Java (Java 8, POO, JUnit, SOLID)
+     Java (Java 8, POO, JUnit, SOLID, JDBC)
 
 #### 𝙈𝙤𝙗𝙞𝙡𝙚
      React Native
