@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! My name is Wendel Eduardo 👋 </h1>
 <h2 align="center"> I'm a programmer👨‍💻 </h2>
-<p align="center"> I seek to work in the computer area applying knowledge acquired during my academic career, specifying to become a more experienced professional.</p>
+<p align="center"> I seek to work in the programming area applying knowledge acquired during my academic career, aiming to become a more experienced professional.</p>
 <h2>Contact</h2>
 <p>
   <a href="mailto:wendeleduardo2002@gmail.com" alt="E-mail" target="_blank">
