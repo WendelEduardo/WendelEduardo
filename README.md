@@ -1,4 +1,4 @@
-<h1> Hello! My name is Wendel Eduardo 👋 </h1>
+<h1 align="center"> Hello! My name is Wendel Eduardo 👋 </h1>
 <p> I seek to work in the programming area applying knowledge acquired during my academic and professional career, aiming to become a more experienced specialist.</p>
 <h2>Contact</h2>
 <p>
