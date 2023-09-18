@@ -22,13 +22,13 @@
 
 ```javascript
 const wendel = {
-  knowledge: [Git, GitHub, GitLab, Jenkins],
-  code: [Java, Spring Boot, HTML, CSS, JavaScript],
-  tools: [React, Flutter, Sass, JPA, Hibernate],
-  tests: [JUnit, Mockito],
-  architecture: ["microservices", "event-driven"],
+  knowledge: ['Git', 'GitHub', 'GitLab', 'Jenkins'],
+  code: ['Java', 'Spring Boot', 'HTML', 'CSS', 'JavaScript'],
+  tools: ['React', 'Flutter', 'Sass', 'JPA', 'Hibernate'],
+  tests: ['JUnit', 'Mockito'],
+  architecture: ['microservices', 'event-driven'],
   academicEducation: {
-                        technicalCourse: "ETEC de Itaquaquecetuba - computing",
-                        graduation: "FIAP - Information system"             
+                        technicalCourse: 'ETEC de Itaquaquecetuba - computing',
+                        graduation: 'FIAP - Information system'             
   },
 }
